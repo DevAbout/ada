@@ -2,6 +2,8 @@
 
 A discord bot for the [Learn To Code](https://discord.gg/Vcv5JG4u) discord server.
 
+<img width=200 height=300 src="images/ada.webp">
+
 # Purpose
 
 The purpose of this discord bot is to provide greetings for new users who join the server. This is a beginner project to get experience using Python and collaborate with developers.
